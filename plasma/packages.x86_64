@@ -128,3 +128,10 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+base-devel
+pacman-contrib
+git
+go
+yay
+fastfetch
